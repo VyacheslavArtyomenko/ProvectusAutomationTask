@@ -1,3 +1,11 @@
+
+/*
+• Open rozetka.com.ua; 
+• Select any city; 
+• Compare two first air conditioning; 
+• Output equal parameters to the console;
+*/
+
 using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
